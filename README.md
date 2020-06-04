@@ -8,6 +8,7 @@ This repo contains a quick start for running a development instance of Prometheu
 * Push Gateway
 * Alertmanager
 * Grafana
+* Jaeger
 
 ```
                +--------------+
@@ -42,7 +43,9 @@ This repo contains a quick start for running a development instance of Prometheu
 1. Go to [http://localhost:9091](http://localhost:9091) for the Push Gateway.  
 1. Go to [http://localhost:9093](http://localhost:9093) for Alertmanager.
 1. Go to [http://localhost:3000](http://localhost:3000) for Grafana.
+1. Go to [http://localhost:16686]( http://localhost:16686) for Jaeger.
 
+# Guides
 # Guides
 ## Add a Scrape Target
 
